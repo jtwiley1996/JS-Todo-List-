@@ -11,3 +11,4 @@ A straightforward application created using initial code to assist users in moni
 # Credits
 
 For this project, I used APIs JQuery and DayJS in my JS code. I also used HTML/CSS starter code from my UW Bootcamp for the framework of the project.
+I used stack overflow and youtube for assistance in coding my JS/Jquery/Dayjs.
